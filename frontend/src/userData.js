@@ -1,0 +1,101 @@
+export const Users = [
+  {
+    id: 1,
+    username: "Kimberely Rogers",
+    profilePicture: "assets/person/1.jpeg",
+  },
+  {
+    id: 2,
+    username: "Adam G. Dennis",
+    profilePicture: "assets/person/2.jpeg",
+  },
+  {
+    id: 3,
+    username: "Brad Steven",
+    profilePicture: "assets/person/3.jpeg",
+  },
+  {
+    id: 4,
+    username: "Gloria Jordan",
+    profilePicture: "assets/person/4.jpeg",
+  },
+  {
+    id: 5,
+    username: "Stacy Miller",
+    profilePicture: "assets/person/5.jpeg",
+  },
+  {
+    id: 6,
+    username: "Harry",
+    profilePicture: "assets/person/7.jpeg",
+  },
+  {
+    id: 7,
+    username: "Scarlett",
+    profilePicture: "assets/person/8.jpeg",
+  },
+];
+
+export const Posts = [
+  {
+    id: 1,
+    desc: "Never Sacrifice 3 things Family, Love & Yourself",
+    img: "assets/post/1.jpeg",
+    date: "2 mins ago",
+    userId: 1,
+    likes: 32,
+    comment: 1,
+  },
+  {
+    id: 2,
+    img: "assets/post/8.jpeg",
+    date: "16 mins ago",
+    userId: 2,
+    likes: 22,
+    comment: 5,
+  },
+  {
+    id: 3,
+    desc: "Success depends on the 2nd letter",
+    img: "assets/post/3.jpeg",
+    date: "8 hours ago",
+    userId: 3,
+    likes: 76,
+    comment: 12,
+  },
+  {
+    id: 4,
+    img: "assets/post/9.jpeg",
+    date: "13 hours ago",
+    userId: 4,
+    likes: 43,
+    comment: 55,
+  },
+  {
+    id: 5,
+    desc: "Started new business",
+    img: "assets/post/5.jpeg",
+    date: "20 hours ago",
+    userId: 5,
+    likes: 2,
+    comment: 3,
+  },
+  {
+    id: 6,
+    desc: "Never give up",
+    img: "assets/post/10.jpeg",
+    date: "1 day ago",
+    userId: 6,
+    likes: 57,
+    comment: 31,
+  },
+  {
+    id: 7,
+    desc: "Believe in your ability to create change",
+    img: "assets/post/7.jpeg",
+    date: "2 day ago",
+    userId: 7,
+    likes: 120,
+    comment: 68,
+  },
+];
